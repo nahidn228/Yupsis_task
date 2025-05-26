@@ -32,5 +32,5 @@ function calculateMojoConsumption(initialMojos) {
 // Test with initial 10 mojos
 const initialMojos = 7;
 const result = calculateMojoConsumption(initialMojos);
-console.log(`Total Mojos eaten: ${result.totalMojosEaten}, and Leftover Mutkis: ${result.leftoverMutkis}`); 
+console.log(`Total Mojos eaten: ${result.totalMojosEaten}, and Leftover Mutkis are: ${result.leftoverMutkis}`); 
  
